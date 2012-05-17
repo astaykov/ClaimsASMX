@@ -1,9 +1,0 @@
-D:\Work\Demos\Azure\AzureASMX\ServiceApp\bin\ServiceApp.dll
-D:\Work\Demos\Azure\AzureASMX\ServiceApp\bin\ServiceApp.pdb
-D:\Work\Demos\Azure\AzureASMX\ServiceApp\bin\CloudElite.ServiceModel.dll
-D:\Work\Demos\Azure\AzureASMX\ServiceApp\bin\Two10.Swt.dll
-D:\Work\Demos\Azure\AzureASMX\ServiceApp\bin\CloudElite.ServiceModel.pdb
-D:\Work\Demos\Azure\AzureASMX\ServiceApp\bin\Two10.Swt.pdb
-D:\Work\Demos\Azure\AzureASMX\ServiceApp\obj\Debug\ResolveAssemblyReference.cache
-D:\Work\Demos\Azure\AzureASMX\ServiceApp\obj\Debug\ServiceApp.dll
-D:\Work\Demos\Azure\AzureASMX\ServiceApp\obj\Debug\ServiceApp.pdb
