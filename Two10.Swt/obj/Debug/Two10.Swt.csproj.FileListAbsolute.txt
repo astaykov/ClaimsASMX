@@ -1,0 +1,15 @@
+C:\junk\ConsoleApplication11\Two10.Swt\obj\Debug\ResolveAssemblyReference.cache
+C:\junk\ConsoleApplication11\Two10.Swt\bin\Debug\Two10.Swt.dll
+C:\junk\ConsoleApplication11\Two10.Swt\bin\Debug\Two10.Swt.pdb
+C:\junk\ConsoleApplication11\Two10.Swt\obj\Debug\Two10.Swt.dll
+C:\junk\ConsoleApplication11\Two10.Swt\obj\Debug\Two10.Swt.pdb
+C:\junk\WebTokens\Two10.Swt\bin\Debug\Two10.Swt.dll
+C:\junk\WebTokens\Two10.Swt\bin\Debug\Two10.Swt.pdb
+C:\junk\WebTokens\Two10.Swt\obj\Debug\ResolveAssemblyReference.cache
+C:\junk\WebTokens\Two10.Swt\obj\Debug\Two10.Swt.dll
+C:\junk\WebTokens\Two10.Swt\obj\Debug\Two10.Swt.pdb
+D:\Work\Demos\Azure\AzureASMX\Two10.Swt\bin\Debug\Two10.Swt.dll
+D:\Work\Demos\Azure\AzureASMX\Two10.Swt\bin\Debug\Two10.Swt.pdb
+D:\Work\Demos\Azure\AzureASMX\Two10.Swt\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Demos\Azure\AzureASMX\Two10.Swt\obj\Debug\Two10.Swt.dll
+D:\Work\Demos\Azure\AzureASMX\Two10.Swt\obj\Debug\Two10.Swt.pdb

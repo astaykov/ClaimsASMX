@@ -1,0 +1,14 @@
+D:\Work\Demos\Azure\AzureASMX\AzureLabOslo.ServiceModel\bin\Debug\CloudElite.ServiceModel.dll
+D:\Work\Demos\Azure\AzureASMX\AzureLabOslo.ServiceModel\bin\Debug\CloudElite.ServiceModel.pdb
+D:\Work\Demos\Azure\AzureASMX\AzureLabOslo.ServiceModel\bin\Debug\Two10.Swt.dll
+D:\Work\Demos\Azure\AzureASMX\AzureLabOslo.ServiceModel\bin\Debug\Two10.Swt.pdb
+D:\Work\Demos\Azure\AzureASMX\AzureLabOslo.ServiceModel\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Demos\Azure\AzureASMX\AzureLabOslo.ServiceModel\obj\Debug\CloudElite.ServiceModel.dll
+D:\Work\Demos\Azure\AzureASMX\AzureLabOslo.ServiceModel\obj\Debug\CloudElite.ServiceModel.pdb
+D:\Work\Demos\Azure\AzureASMX\CloudElite.ServiceModel\bin\Debug\CloudElite.ServiceModel.dll
+D:\Work\Demos\Azure\AzureASMX\CloudElite.ServiceModel\bin\Debug\CloudElite.ServiceModel.pdb
+D:\Work\Demos\Azure\AzureASMX\CloudElite.ServiceModel\bin\Debug\Two10.Swt.dll
+D:\Work\Demos\Azure\AzureASMX\CloudElite.ServiceModel\bin\Debug\Two10.Swt.pdb
+D:\Work\Demos\Azure\AzureASMX\CloudElite.ServiceModel\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Demos\Azure\AzureASMX\CloudElite.ServiceModel\obj\Debug\CloudElite.ServiceModel.dll
+D:\Work\Demos\Azure\AzureASMX\CloudElite.ServiceModel\obj\Debug\CloudElite.ServiceModel.pdb

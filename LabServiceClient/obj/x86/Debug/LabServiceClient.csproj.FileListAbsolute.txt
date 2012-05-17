@@ -1,0 +1,14 @@
+D:\Work\Demos\Azure\AzureASMX\LabServiceClient\bin\Debug\LabServiceClient.exe.config
+D:\Work\Demos\Azure\AzureASMX\LabServiceClient\bin\Debug\LabServiceClient.exe
+D:\Work\Demos\Azure\AzureASMX\LabServiceClient\bin\Debug\LabServiceClient.pdb
+D:\Work\Demos\Azure\AzureASMX\LabServiceClient\bin\Debug\CloudElite.ServiceModel.dll
+D:\Work\Demos\Azure\AzureASMX\LabServiceClient\bin\Debug\Two10.Swt.dll
+D:\Work\Demos\Azure\AzureASMX\LabServiceClient\bin\Debug\CloudElite.ServiceModel.pdb
+D:\Work\Demos\Azure\AzureASMX\LabServiceClient\bin\Debug\Two10.Swt.pdb
+D:\Work\Demos\Azure\AzureASMX\LabServiceClient\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Work\Demos\Azure\AzureASMX\LabServiceClient\obj\x86\Debug\LabServiceClient.Form1.resources
+D:\Work\Demos\Azure\AzureASMX\LabServiceClient\obj\x86\Debug\LabServiceClient.Properties.Resources.resources
+D:\Work\Demos\Azure\AzureASMX\LabServiceClient\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Work\Demos\Azure\AzureASMX\LabServiceClient\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Work\Demos\Azure\AzureASMX\LabServiceClient\obj\x86\Debug\LabServiceClient.exe
+D:\Work\Demos\Azure\AzureASMX\LabServiceClient\obj\x86\Debug\LabServiceClient.pdb

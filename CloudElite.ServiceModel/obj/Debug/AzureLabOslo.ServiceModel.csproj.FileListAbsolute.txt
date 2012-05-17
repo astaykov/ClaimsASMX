@@ -1,0 +1,7 @@
+D:\Work\Demos\Azure\AzureASMX\AzureLabOslo.ServiceModel\bin\Debug\AzureLabOslo.ServiceModel.dll
+D:\Work\Demos\Azure\AzureASMX\AzureLabOslo.ServiceModel\bin\Debug\AzureLabOslo.ServiceModel.pdb
+D:\Work\Demos\Azure\AzureASMX\AzureLabOslo.ServiceModel\bin\Debug\Two10.Swt.dll
+D:\Work\Demos\Azure\AzureASMX\AzureLabOslo.ServiceModel\bin\Debug\Two10.Swt.pdb
+D:\Work\Demos\Azure\AzureASMX\AzureLabOslo.ServiceModel\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Demos\Azure\AzureASMX\AzureLabOslo.ServiceModel\obj\Debug\AzureLabOslo.ServiceModel.dll
+D:\Work\Demos\Azure\AzureASMX\AzureLabOslo.ServiceModel\obj\Debug\AzureLabOslo.ServiceModel.pdb

@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceApp", "ServiceApp\ServiceApp.csproj", "{4147EE9F-0C1A-4073-AF5D-B0653317747D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabServiceClient", "LabServiceClient\LabServiceClient.csproj", "{F78470BA-0892-4581-A010-61AC07B3C1EF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4147EE9F-0C1A-4073-AF5D-B0653317747D} = {4147EE9F-0C1A-4073-AF5D-B0653317747D}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "References", "References", "{C6C558D3-C2DE-42B6-BEDA-8544A0545D49}"
+	ProjectSection(SolutionItems) = preProject
+		References\Two10.Swt.dll = References\Two10.Swt.dll
+		References\Two10.Swt.pdb = References\Two10.Swt.pdb
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2968F808-D935-4E8B-A9F6-715CA25330CC}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.txt = Readme.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudElite.ServiceModel", "CloudElite.ServiceModel\CloudElite.ServiceModel.csproj", "{B727DEF6-046A-4527-878B-97247A183760}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4147EE9F-0C1A-4073-AF5D-B0653317747D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4147EE9F-0C1A-4073-AF5D-B0653317747D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4147EE9F-0C1A-4073-AF5D-B0653317747D}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{4147EE9F-0C1A-4073-AF5D-B0653317747D}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{4147EE9F-0C1A-4073-AF5D-B0653317747D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4147EE9F-0C1A-4073-AF5D-B0653317747D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4147EE9F-0C1A-4073-AF5D-B0653317747D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4147EE9F-0C1A-4073-AF5D-B0653317747D}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{4147EE9F-0C1A-4073-AF5D-B0653317747D}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{4147EE9F-0C1A-4073-AF5D-B0653317747D}.Release|x86.ActiveCfg = Release|Any CPU
+		{F78470BA-0892-4581-A010-61AC07B3C1EF}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{F78470BA-0892-4581-A010-61AC07B3C1EF}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{F78470BA-0892-4581-A010-61AC07B3C1EF}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{F78470BA-0892-4581-A010-61AC07B3C1EF}.Debug|x86.ActiveCfg = Debug|x86
+		{F78470BA-0892-4581-A010-61AC07B3C1EF}.Debug|x86.Build.0 = Debug|x86
+		{F78470BA-0892-4581-A010-61AC07B3C1EF}.Release|Any CPU.ActiveCfg = Release|x86
+		{F78470BA-0892-4581-A010-61AC07B3C1EF}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{F78470BA-0892-4581-A010-61AC07B3C1EF}.Release|Mixed Platforms.Build.0 = Release|x86
+		{F78470BA-0892-4581-A010-61AC07B3C1EF}.Release|x86.ActiveCfg = Release|x86
+		{F78470BA-0892-4581-A010-61AC07B3C1EF}.Release|x86.Build.0 = Release|x86
+		{B727DEF6-046A-4527-878B-97247A183760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B727DEF6-046A-4527-878B-97247A183760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B727DEF6-046A-4527-878B-97247A183760}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{B727DEF6-046A-4527-878B-97247A183760}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{B727DEF6-046A-4527-878B-97247A183760}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B727DEF6-046A-4527-878B-97247A183760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B727DEF6-046A-4527-878B-97247A183760}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B727DEF6-046A-4527-878B-97247A183760}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{B727DEF6-046A-4527-878B-97247A183760}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{B727DEF6-046A-4527-878B-97247A183760}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
